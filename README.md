@@ -3,7 +3,7 @@
 # <div align="center"><p>About Me</p></div>
 
 <div align="center">
-  <p>I’m a <strong>BS Computer Science</strong>strong> student at <strong>De La Salle Lipa</strong>strong> with a strong enthusiasm for software development and emerging technologies.<br><br></p>
+  <p>I’m a <strong>BS Computer Science</strong> student at <strong>De La Salle Lipa</strong> with a strong enthusiasm for software development and emerging technologies.<br><br></p>
 </div>
 
 <picture>
