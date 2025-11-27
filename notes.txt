@@ -1,0 +1,21 @@
+Set global browser zoom to 80% while ensuring each sections occupies 100% viewport height (section height will be exact on the user screen)
+
+html {
+  zoom: 0.8;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), sans-serif;
+}
+
+.min-h-screen {
+  min-height: 125vh !important;
+}
+
+# if a reset is needed (revert all changes made and make local repo mirrored/1:1 with the remote repo to start fresh)
+
+git reset --hard HEAD; git clean -fd; git fetch origin; git reset --hard origin/main; git status
+
+// git pull origin main
