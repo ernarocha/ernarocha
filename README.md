@@ -1,4 +1,6 @@
-## Hi there 👋
+# <div align="center"><p>Hi there, I'm Ernalene Rocha"</p>/div>
+
+# <div align="center"><p>About Me</p></div>
 
 <!--
 **ernarocha/ernarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
