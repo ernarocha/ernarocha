@@ -2,7 +2,16 @@
 
 # <div align="center"><p>About Me</p></div>
 
-I’m a BS Computer Science student at De La Salle Lipa with a strong enthusiasm for software development and emerging technologies.
+<div align="center">
+  <p>I’m a **BS Computer Science** student at **De La Salle Lipa** with a strong enthusiasm for software development and emerging technologies.<br><br></p>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ernarocha/ernarocha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ernarocha/ernarocha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ernarocha/ernarocha/output/pacman-contribution-graph.svg">
+</picture>
+  
 <!--
 **ernarocha/ernarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ernarocha/ernarocha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ernarocha/ernarocha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ernarocha/ernarocha/output/pacman-contribution-graph.svg">
-</picture>
+
