@@ -2,6 +2,7 @@
 
 # <div align="center"><p>About Me</p></div>
 
+I’m a BS Computer Science student at De La Salle Lipa with a strong enthusiasm for software development and emerging technologies.
 <!--
 **ernarocha/ernarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
