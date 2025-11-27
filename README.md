@@ -1,4 +1,4 @@
-# <div align="center"><p>Hi there, I'm Ernalene Rocha</p>/div>
+# <div align="center"><p>Hi there, I'm Ernalene Rocha</p><div>
 
 # <div align="center"><p>About Me</p></div>
 
