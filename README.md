@@ -72,7 +72,7 @@
 
 <div align="center">
   <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ernar&theme=material-palenight&hide_border=false" alt="GitHub streak stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ernarocha&theme=material-palenight&hide_border=false" alt="GitHub streak stats" />
 </div>
   
 <!--
